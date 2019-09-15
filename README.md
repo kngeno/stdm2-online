@@ -7,7 +7,7 @@ Introduction
 [![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
 [![CDNJS](https://img.shields.io/cdnjs/v/admin-lte.svg)](https://cdnjs.com/libraries/admin-lte)
 
-**STDM Online** -- is a fully responsive admin template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
+**STDM Online** -- platform comprises spatial data that represent the boundaries of land tenure and provides a vital base layer for integration into other spatial information systems i.e. **[STDM2 Plugin](https://github.com/gltn/stdm2)** and STDM Mobile that permits users to retrieve, create, update, store, analyze and visualize data through intuitive dashboards. 
 
 **Demo [STDM Online](https://stdm2.ngenokevin.com)**
 
@@ -15,7 +15,7 @@ Introduction
 Visit the [online documentation](https://gltn.github.io/stdm2-online) for the most
 updated guide.
 
-!["STDM Online Presentation"](https://adminlte.io/AdminLTE2.png "STDM Online Presentation")
+!["STDM Online Presentation"](/images/readme/stdm2-dashboard.png "STDM Online Presentation")
 
 ### Contribution
 Contribution are always **welcome and recommended**! Here is how:
@@ -33,18 +33,4 @@ Contribution are always **welcome and recommended**! Here is how:
 - Finally, contributed code must work in all supported browsers (see above for browser support).
 
 ### License
-AdminLTE is an open source project by [STDM Online](https://adminlte.io) that is licensed under [MIT](http://opensource.org/licenses/MIT). STDM Online
-reserves the right to change the license of future releases. Wondering what you can or can't do? View the [license guide](https://adminlte.io/docs/license).
-
-### Legacy Releases
-AdminLTE 1.x can be easily upgraded to 2.x using [this guide](https://adminlte.io/themes/AdminLTE/documentation/index.html#upgrade), but if you intend to keep using AdminLTE 1.x, you can download the latest release from the [releases](https://github.com/ColorlibHQ/AdminLTE/releases) section above.
-
-### Change log
-**For the most recent change log, visit the [releases page](https://github.com/ColorlibHQ/AdminLTE/releases).** We will add detailed release notes to each new release.
-
-### Image Credits
-- [Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
-- [Graphicsfuel](http://www.graphicsfuel.com/2013/02/13-high-resolution-blur-backgrounds/)
-- [Pickaface](http://pickaface.net/)
-- [Unsplash](https://unsplash.com/)
-- [Uifaces](http://uifaces.com/)
+STDM Online is an open source project by [STDM Online](https://gltn.github.io/stdm2-online) that is licensed under [GPL v3](https://www.gnu.org/licenses/old-licenses/gpl-3.0.en.html). STDM Online reserves the right to change the license of future releases. Wondering what you can or can't do? View the [license guide](https://gltn.github.io/stdm2-online/docs/license).
