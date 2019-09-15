@@ -7,15 +7,15 @@ Introduction
 [![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
 [![CDNJS](https://img.shields.io/cdnjs/v/admin-lte.svg)](https://cdnjs.com/libraries/admin-lte)
 
-**STDM Online** -- platform comprises spatial data that represent the boundaries of land tenure and provides a vital base layer for integration into other spatial information systems i.e. **[STDM2 Plugin](https://github.com/gltn/stdm2)** and STDM Mobile that permits users to retrieve, create, update, store, analyze and visualize data through intuitive dashboards. 
+**STDM Online** -- platform comprises spatial data that represent the boundaries of land tenure and provides a vital base layer for integration into other spatial information systems i.e. **[STDM2 Plugin](https://github.com/gltn/stdm2)** and STDM Mobile that permits users to retrieve, create, update, store, analyze and visualize data through intuitive dashboards.
+
+!["STDM Online Presentation"](/images/readme/stdm2-dashboard.png "STDM Online Presentation")
 
 **Demo [STDM Online](https://stdm2.ngenokevin.com)**
 
 ## Documentation & Installation Guide
 Visit the [online documentation](https://gltn.github.io/stdm2-online) for the most
 updated guide.
-
-!["STDM Online Presentation"](/images/readme/stdm2-dashboard.png "STDM Online Presentation")
 
 ### Contribution
 Contribution are always **welcome and recommended**! Here is how:
