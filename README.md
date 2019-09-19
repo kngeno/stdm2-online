@@ -9,7 +9,7 @@ Introduction
 
 **STDM Online** -- platform comprises spatial data that represent the boundaries of land tenure and provides a vital base layer for integration into other spatial information systems i.e. **[STDM2 Plugin](https://github.com/gltn/stdm2)** and STDM Mobile that permits users to retrieve, create, update, store, analyze and visualize data through intuitive dashboards.
 
-!["STDM Online Presentation"](/images/readme/stdm2-dashboard.png "STDM Online Presentation")
+!["STDM Online Presentation"](static/images/readme/stdm2-dashboard.png "STDM Online Presentation")
 
 **Demo [STDM Online](https://stdm2.ngenokevin.com)**
 
